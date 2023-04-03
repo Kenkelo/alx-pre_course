@@ -1,1 +1,1 @@
-My git task 1
+I'm now learning how to code properly 
